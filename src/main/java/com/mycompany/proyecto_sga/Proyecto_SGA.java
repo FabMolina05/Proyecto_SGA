@@ -11,6 +11,6 @@ package com.mycompany.proyecto_sga;
 public class Proyecto_SGA {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hello mepsfaasf!");
     }
 }
